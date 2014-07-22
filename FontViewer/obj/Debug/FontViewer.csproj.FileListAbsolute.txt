@@ -1,0 +1,58 @@
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\FontViewer.exe.config
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\FontViewer.exe
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\FontViewer.pdb
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer_MarkupCompile.cache
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer.g.resources
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer.Properties.Resources.resources
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer.exe
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\obj\Debug\FontViewer.pdb
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\C# tests\FontViewer\FontViewer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\FontViewer.exe.config
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer.exe
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer.pdb
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\FontViewer.exe
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\FontViewer.pdb
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer_MarkupCompile.cache
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer.g.resources
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer.Properties.Resources.resources
+C:\Users\Nikola\Desktop\myGitProjects\FontViewer\FontViewer\obj\Debug\FontViewer.csproj.GenerateResource.Cache
