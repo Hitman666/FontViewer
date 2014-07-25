@@ -8,4 +8,4 @@ Disclamer: I'm in no way affiliated with Amazon or this book, I just think it's 
 
 [FontViewerApplication.zip](FontViewerApplication.zip) contains the exe of the application which you can run, and the FontViewer.sln is the Visual Studio solution.
 
-The accompanying blog post about how this application was written can be found here: [http://www.nikola-breznjak.com/blog/wpf/build-a-font-v…ing-any-c-code/](http://www.nikola-breznjak.com/blog/wpf/build-a-font-v…ing-any-c-code/)
+The accompanying blog post about how this application was written (step by step) can be found here: [http://www.nikola-breznjak.com/blog/codeproject/build-a-font-viewer-application-in-wpf-without-writing-any-c-code/](http://www.nikola-breznjak.com/blog/codeproject/build-a-font-viewer-application-in-wpf-without-writing-any-c-code/)
